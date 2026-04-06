@@ -1,6 +1,6 @@
-# 💰 Finance Dashboard Backend API
+#  Finance Dashboard Backend API
 
-## 🌐 Live API
+##  Live API
 https://finance-dashboard-backend-d90e.onrender.com/
 
 ## 📌 Overview
@@ -11,14 +11,14 @@ It allows users to create, view, and manage financial data based on their assign
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🔐 Authentication
 
 * User Registration
 * User Login (JWT आधारित authentication)
 
-### 👥 Role-Based Access Control
+###  Role-Based Access Control
 
 * **Viewer**
 
