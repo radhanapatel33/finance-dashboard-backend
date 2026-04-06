@@ -1,7 +1,7 @@
 # 💰 Finance Dashboard Backend API
 
 ## 🌐 Live API
-https://finance-dashboard-backend-d90e.onrender.com
+https://finance-dashboard-backend-d90e.onrender.com/
 
 ## 📌 Overview
 
