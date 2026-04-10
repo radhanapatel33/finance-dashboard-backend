@@ -16,7 +16,7 @@ It allows users to create, view, and manage financial data based on their assign
 ### 🔐 Authentication
 
 * User Registration
-* User Login (JWT आधारित authentication)
+* User Login Using (JWT-based authentication)
 
 ### 👥 Role-Based Access Control
 
